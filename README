@@ -1,3 +1,9 @@
+##VLC Unlimited Resolution
+This version of VLC is just standard VLC 3.0.8 with small modification to remove the nonsense limitation of 8192*8192 for video decoding.
+This limit has no justification! 
+https://trac.videolan.org/vlc/ticket/23223
+
+
 README for the VLC media player
 ===============================
 
